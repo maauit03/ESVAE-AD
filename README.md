@@ -91,17 +91,6 @@ args:
 - device: device id of gpu, default 0
 
 # Evaluation
-![results](imgs/results.png)
-
-# Reconstructed Images
-![cifar_recons](imgs/cifar_recons_appendix.png)
-![celeb_recons](imgs/celeb_recons_appendix.png)
-
-# Generated Images
-![cifar](imgs/cifar_generated_images_appendix.png)
-![celeb](imgs/celeb_generated_images_appendix.png)
-
-# Noised Images
-![cifar_noise](imgs/cifar_noised_images.png)
-![celeb_noise](imgs/celeb_noised_images.png)
-
+![results](demo_imgs/ad_map_overview_updated.png)
+![results](demo_imgs/ad_map_overview_with_metrics_print.png)
+![results](demo_imgs/ad_map_overview_with_metrics2.png)
